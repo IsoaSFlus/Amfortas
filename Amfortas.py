@@ -1,3 +1,4 @@
+#!/bin/env python3
 import torrent_parser as tp
 import sys
 
